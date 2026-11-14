@@ -1,3 +1,5 @@
+# AI DISCLOSURE: OpenAI ChatGPT assisted parts of TerraTwin code drafting/debugging.
+# See AI_USAGE.md and ai_provenance.json; external scientific data are not AI-generated.
 """One shared user-selected location, reused by all TerraTwin sections.
 
 Pure functions are separated from Streamlit so state transitions can be tested

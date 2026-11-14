@@ -1,0 +1,20 @@
+TERRATWIN — EARTH AS A SPACE LABORATORY
+Detailed project description for NASA Space Apps Challenge
+
+WHAT IT DOES AND WHY IT MATTERS
+TerraTwin is an interactive scientific web application for exploring locations on Earth that may be useful for testing equipment and researching environmental challenges relevant to lunar and Martian missions. Space technology benefits from terrestrial testing, yet the data needed to choose a representative site are spread across several scientific services. TerraTwin brings those sources into one understandable workflow.
+
+HOW IT WORKS
+Users choose a point on a world map or enter coordinates. The app retrieves available climate, solar-energy and elevation information and uses geologic sources where coverage exists. For mission-testing scenarios, it considers six factors: terrain and slope, rocks and materials, thermal extremes, water/ground ice context, solar availability, and terrain-derived rover mobility. It reports a 0–100 suitability score as a project-defined screening index and explains the criteria, source coverage and limitations. Mapped information and modeled or indirect estimates are differentiated. Climate charts and scientific-source links support further investigation.
+
+BENEFITS, IMPACT AND CREATIVITY
+TerraTwin provides an approachable tool for students learning planetary science, researchers looking for interesting Earth analogs, and engineers doing preliminary site screening. Its creative element is linking Earth observation with planetary exploration questions using a transparent, adjustable multicriteria assessment rather than presenting isolated numbers or suggesting a false percentage of physical similarity to the Moon or Mars. It aims to improve scientific communication and encourage evidence-led field-test planning.
+
+TOOLS AND TECHNOLOGIES
+The application uses Python and Streamlit, Folium and streamlit-folium for interactive maps, Pandas for processing, Plotly for charts, Requests for external services, GitHub for source distribution, and Streamlit Community Cloud for deployment. It runs in a browser and supports English and Ukrainian. No specialized hardware is needed for standard use.
+
+DESIGN FACTORS AND LIMITATIONS
+The project considers data availability, model resolution, uncertainty, scientific traceability, readable explanations, accessibility and differences in gravity, radiation and atmosphere between Earth and other planets. Where direct geological or ground-ice evidence is unavailable, the app may use explicitly labeled environmental proxies; these are not confirmed rock types or measured ice deposits. Planetary datasets are listed as research resources, not all automatically sampled for live numerical comparison. The project is independent and not affiliated with NASA.
+
+AI USAGE DISCLOSURE
+OpenAI ChatGPT assisted with parts of Python code generation/debugging, interface translation, documentation and presentation production. AI-assisted decorative visuals are visibly marked in the submitted slides. NASA and other third-party scientific observations are not AI-generated; curated descriptions and qualitative annotations may have been prepared with AI assistance. Project-defined suitability scores and estimated indicators are algorithmic calculations, not validated measurements of planetary similarity. The project submitters are responsible for the final material.

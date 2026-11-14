@@ -1,5 +1,14 @@
 # TerraTwin v2.1.11 — Complete English / Ukrainian UI
 
+## AI Usage Disclosure / Розкриття використання ШІ
+
+**English:** Parts of TerraTwin's Python code, debugging, English/Ukrainian interface text, documentation and presentation design were developed with assistance from **OpenAI ChatGPT**. AI-assisted presentation visuals are visibly labeled. Scientific data from NASA, Copernicus and other cited providers are **not** AI-generated measurements; site descriptions, feature annotations and source catalogs were curated with AI assistance. TerraTwin's 0–100 scores are project-defined calculations, not validated planetary similarity measurements. See [AI_USAGE.md](AI_USAGE.md) and [ai_provenance.json](ai_provenance.json) for a detailed disclosure and machine-readable metadata.
+
+**Українською:** Під час розробки частини Python-коду, налагодження, перекладів, документації та презентацій використовувався **OpenAI ChatGPT**. Ілюстрації з допомогою ШІ позначено на слайдах. Наукові дані NASA та інших джерел **не є згенерованими ШІ вимірюваннями**. Описові довідники й пояснення частково підготовлені з допомогою ШІ, а бали придатності є авторськими розрахунковими показниками. Детальніше: [AI_USAGE.md](AI_USAGE.md).
+
+---
+
+
 This build improves the English translation throughout TerraTwin, including Mission testing limitations, source explanations, climate and geological tables, and chart controls. **English is the default language.** Switch to Українська at the top of the app at any time. Navigation, location and Dark/Light theme continue to use stable internal IDs. The cosmic Research Data Hub visual design and built-in Quick Start are preserved.
 
 **Setup:** Unzip into a new, empty directory (do not overwrite an older TerraTwin folder), run `START_TERRATWIN.bat`, and visit `http://localhost:8546` if the browser does not open automatically. Live API responses depend on internet access and external service coverage; no local full-browser validation is claimed.

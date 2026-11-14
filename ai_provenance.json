@@ -1,0 +1,43 @@
+{
+  "project": "TerraTwin: Earth as a Space Laboratory",
+  "version": "AI disclosure edition (based on v2.1.11)",
+  "date": "2026-11-14",
+  "ai_assistance": {
+    "provider": "OpenAI",
+    "tool": "ChatGPT",
+    "functions": [
+      "Python code drafting and debugging",
+      "English/Ukrainian translation",
+      "documentation and scientific explanation drafting",
+      "presentation preparation and visual assistance"
+    ]
+  },
+  "code": {
+    "human_readable_disclosure": "AI_USAGE.md",
+    "module_level_disclosure": "AI DISCLOSURE comment in Python modules",
+    "autonomous_ai_in_live_app": false
+  },
+  "data": {
+    "observational_provider_data_ai_generated": false,
+    "locally_curated_ai_assisted_files": [
+      "data/sites.json",
+      "data/feature_evidence.json",
+      "DATA_SOURCES.csv"
+    ],
+    "data_metadata": "data/AI_PROVENANCE.json",
+    "live_providers": [
+      "NASA POWER",
+      "Open-Meteo",
+      "Macrostrat and other listed scientific services"
+    ],
+    "caveat": "External provider data are independent from AI-assisted explanatory text and project-specific scores."
+  },
+  "media": {
+    "demo": "TerraTwin_NASA_Space_Apps_Demo_7_Slides_AI_Disclosed.pptx/pdf",
+    "slides_7_decorative_images": "conservatively marked AI-GENERATED VISUAL where provenance unverified",
+    "app_screenshot": "real software screenshot, not designated AI-generated",
+    "audio_used": false,
+    "video_used": false
+  },
+  "disclaimer": "Software and project materials have not been independently certified by NASA or any agency."
+}

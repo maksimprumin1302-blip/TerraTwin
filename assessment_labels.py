@@ -1,3 +1,5 @@
+# AI DISCLOSURE: OpenAI ChatGPT assisted parts of TerraTwin code drafting/debugging.
+# See AI_USAGE.md and ai_provenance.json; external scientific data are not AI-generated.
 """Interpretable heuristic ratings that never confuse test usefulness with planetary fidelity.
 
 Thresholds are project-defined presentation bands, NOT validated NASA thresholds.

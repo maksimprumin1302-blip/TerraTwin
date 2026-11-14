@@ -1,3 +1,5 @@
+# AI DISCLOSURE: OpenAI ChatGPT assisted parts of TerraTwin code drafting/debugging.
+# See AI_USAGE.md and ai_provenance.json; external scientific data are not AI-generated.
 """Theme palette and lightweight static styling for TerraTwin. No DOM scripting."""
 from __future__ import annotations
 import base64

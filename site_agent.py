@@ -1,3 +1,5 @@
+# AI DISCLOSURE: OpenAI ChatGPT assisted parts of TerraTwin code drafting/debugging.
+# See AI_USAGE.md and ai_provenance.json; external scientific data are not AI-generated.
 """Reproducible climate-proxy screening agent for arbitrary Earth coordinates.
 
 This is intentionally NOT a physical Mars/Moon similarity model. NASA POWER

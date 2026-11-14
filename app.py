@@ -1,3 +1,5 @@
+# AI DISCLOSURE: OpenAI ChatGPT assisted parts of TerraTwin code drafting/debugging.
+# See AI_USAGE.md and ai_provenance.json; external scientific data are not AI-generated.
 """TerraTwin v2.1 — scientific analogs and base mission scenarios.
 
 Run from project folder: python -m streamlit run app.py --server.port 8521

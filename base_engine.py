@@ -1,3 +1,5 @@
+# AI DISCLOSURE: OpenAI ChatGPT assisted parts of TerraTwin code drafting/debugging.
+# See AI_USAGE.md and ai_provenance.json; external scientific data are not AI-generated.
 """Auditable terrestrial test-site screening for Moon/Mars mission scenarios.
 
 No values from other planets are fabricated. Planetary profiles contain *verified

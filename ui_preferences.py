@@ -1,3 +1,5 @@
+# AI DISCLOSURE: OpenAI ChatGPT assisted parts of TerraTwin code drafting/debugging.
+# See AI_USAGE.md and ai_provenance.json; external scientific data are not AI-generated.
 """Stable user preferences independent of Streamlit widget identity.
 
 A Streamlit widget may be reconstructed when a label or formatted options

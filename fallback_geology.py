@@ -1,3 +1,5 @@
+# AI DISCLOSURE: OpenAI ChatGPT assisted parts of TerraTwin code drafting/debugging.
+# See AI_USAGE.md and ai_provenance.json; external scientific data are not AI-generated.
 """Optional local GLiM lithology fallback for an Earth point.
 
 Only accepts a spatially matching, user-supplied, WGS84 GeoJSON excerpt from

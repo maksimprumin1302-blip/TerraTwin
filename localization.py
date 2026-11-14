@@ -1,3 +1,5 @@
+# AI DISCLOSURE: OpenAI ChatGPT assisted parts of TerraTwin code drafting/debugging.
+# See AI_USAGE.md and ai_provenance.json; external scientific data are not AI-generated.
 """Offline EN/UK UI localization. English is the initial default.
 
 Internal option IDs and Streamlit widget keys remain stable regardless of locale,

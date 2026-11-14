@@ -1,3 +1,5 @@
+# AI DISCLOSURE: OpenAI ChatGPT assisted parts of TerraTwin code drafting/debugging.
+# See AI_USAGE.md and ai_provenance.json; external scientific data are not AI-generated.
 """Source-aware gridded ERA5 fallback. No source data are fabricated.
 
 Open-Meteo Historical Weather API: https://open-meteo.com/en/docs/historical-weather-api

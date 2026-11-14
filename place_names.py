@@ -1,3 +1,5 @@
+# AI DISCLOSURE: OpenAI ChatGPT assisted parts of TerraTwin code drafting/debugging.
+# See AI_USAGE.md and ai_provenance.json; external scientific data are not AI-generated.
 """One-click locality lookup for a point picked by the user.
 
 Public OpenStreetMap Nominatim is used ONLY for an explicit point selection,

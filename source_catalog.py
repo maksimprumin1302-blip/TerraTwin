@@ -1,3 +1,5 @@
+# AI DISCLOSURE: OpenAI ChatGPT assisted parts of TerraTwin code drafting/debugging.
+# See AI_USAGE.md and ai_provenance.json; external scientific data are not AI-generated.
 """Verifiable research catalogue: data access isn't equivalent to point-level availability.
 
 Each source explicitly states whether TerraTwin can request numeric values directly,

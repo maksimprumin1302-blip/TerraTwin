@@ -1,3 +1,7 @@
+## AI disclosure update (2026-11-14)
+
+Added bilingual AI-use notice to README, machine-readable metadata for code/data and an AI usage statement in Python modules. Existing scientific data files and computational logic are unchanged.
+
 # TerraTwin v2.1.11 — Complete EN/UA Interface Review (2026-11-14)
 
 - Fixed the full **Limitations** statement in Mission testing: English mode now displays a complete English paragraph, without mixed Ukrainian fragments.

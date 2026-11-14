@@ -1,3 +1,5 @@
+# AI DISCLOSURE: OpenAI ChatGPT assisted parts of TerraTwin code drafting/debugging.
+# See AI_USAGE.md and ai_provenance.json; external scientific data are not AI-generated.
 """Reusable scientific dashboard charts for TerraTwin.
 
 Charts are based exclusively on the evidence/score inputs passed to them.

@@ -1,0 +1,23 @@
+{
+  "metadata_type": "terratwin-data-ai-provenance",
+  "disclosure_date": "2026-11-14",
+  "ai_assistant": "OpenAI ChatGPT",
+  "raw_provider_observations_generated_by_ai": false,
+  "files": [
+    {
+      "path": "sites.json",
+      "type": "curated terrestrial analog catalog",
+      "ai_usage": "AI-assisted drafting and organization of descriptions",
+      "source_type": "linked public references in records",
+      "caveat": "not measured site data"
+    },
+    {
+      "path": "feature_evidence.json",
+      "type": "curated qualitative evidence notes",
+      "ai_usage": "AI-assisted curation and text drafting",
+      "source_type": "reference URLs in records",
+      "caveat": "verify interpretations against source publications"
+    }
+  ],
+  "runtime_note": "Project-defined scores and proxies are outputs of application algorithms, not ground-truth observations."
+}

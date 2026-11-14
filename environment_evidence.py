@@ -1,3 +1,5 @@
+# AI DISCLOSURE: OpenAI ChatGPT assisted parts of TerraTwin code drafting/debugging.
+# See AI_USAGE.md and ai_provenance.json; external scientific data are not AI-generated.
 """Source-aware interpretation of geological map and optional NSIDC GGD318 vector data.
 
 The results are *field-test heuristics*, not mineral assays or ground-ice measurements.

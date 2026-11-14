@@ -1,3 +1,5 @@
+# AI DISCLOSURE: OpenAI ChatGPT assisted parts of TerraTwin code drafting/debugging.
+# See AI_USAGE.md and ai_provenance.json; external scientific data are not AI-generated.
 """Live Earth-observation discovery; returns METADATA, never scientific pixel values.
 
 NASA CMR and Copernicus CDSE STAC are open research catalogues. Searching

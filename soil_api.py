@@ -1,3 +1,5 @@
+# AI DISCLOSURE: OpenAI ChatGPT assisted parts of TerraTwin code drafting/debugging.
+# See AI_USAGE.md and ai_provenance.json; external scientific data are not AI-generated.
 """Optional SoilGrids lookup. REST officially paused; any HTTP failure is reported.
 
 SoilGrids values are model predictions, not point samples. This function isn't

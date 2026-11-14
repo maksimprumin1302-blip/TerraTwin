@@ -1,3 +1,5 @@
+# AI DISCLOSURE: OpenAI ChatGPT assisted parts of TerraTwin code drafting/debugging.
+# See AI_USAGE.md and ai_provenance.json; external scientific data are not AI-generated.
 """Transparent low-confidence fallback assessments for *field-testing opportunities*.
 
 These never establish geology/rock type, ground-ice presence, or planetary similarity.

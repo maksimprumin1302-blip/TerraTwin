@@ -1,3 +1,5 @@
+# AI DISCLOSURE: OpenAI ChatGPT assisted parts of TerraTwin code drafting/debugging.
+# See AI_USAGE.md and ai_provenance.json; external scientific data are not AI-generated.
 """Folium map powered by OpenStreetMap standard tiles: NO API key required.
 
 World wraps horizontally. Site dots are duplicated in nearby worlds; user-selected
