@@ -1,0 +1,11 @@
+/* Public-view polish: hide Streamlit's unrelated developer/deploy controls. */
+#MainMenu, [data-testid='stToolbar'], [data-testid='stDecoration'],
+[data-testid='stStatusWidget'], .stAppDeployButton {display:none!important}
+/* Ensure theme colors remain consistent for borders and navigation controls. */
+.stApp [data-testid='stRadio'] [role='radiogroup'] {align-items:center;flex-wrap:wrap}
+.stApp [data-testid='stForm'], .stApp [data-testid='stVerticalBlockBorderWrapper'] {
+  border-color:var(--tt-border)!important;
+}
+.stApp [data-baseweb='textarea'] textarea, .stApp textarea {
+  background:var(--tt-panel)!important; color:var(--tt-ink)!important;
+}

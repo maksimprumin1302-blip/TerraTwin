@@ -1,0 +1,67 @@
+{
+  "khaybar": {
+    "basalt": {
+      "status": "yes",
+      "note": "NASA описує темні базальтові потоки поблизу Jabal al Qidr у вулканічному полі Харрат-Хайбар.",
+      "source_url": "https://science.nasa.gov/earth/earth-observatory/harrat-khaybar-volcanic-field-8650/"
+    },
+    "lava_flows": {
+      "status": "yes",
+      "note": "Науковий опис NASA підтверджує декілька генерацій застиглих лавових потоків.",
+      "source_url": "https://science.nasa.gov/earth/earth-observatory/harrat-khaybar-volcanic-field-8650/"
+    },
+    "rugged": {
+      "status": "yes",
+      "note": "NASA описує вулканічні конуси та куполи; це підстави досліджувати пересування роботів по неоднорідному рельєфу, але не гарантія схожих ухилів з Місяцем.",
+      "source_url": "https://science.nasa.gov/earth/earth-observatory/harrat-khaybar-volcanic-field-8650/"
+    }
+  },
+  "arizaro": {
+    "ancient_water": {
+      "status": "yes",
+      "note": "NASA описує сухе озерне дно й давні берегові лінії Салар-де-Арісаро.",
+      "source_url": "https://science.nasa.gov/earth/earth-observatory/salar-de-arizaro-83914/"
+    },
+    "sediments": {
+      "status": "partial",
+      "note": "Соляна кірка та озерні залишки підтверджують осадові процеси, але це не означає тотожність матеріалам дельти Єзеро.",
+      "source_url": "https://science.nasa.gov/earth/earth-observatory/salar-de-arizaro-83914/"
+    },
+    "erosion": {
+      "status": "yes",
+      "note": "На знімку NASA присутні ярданги — форми, вироблені вітровою ерозією.",
+      "source_url": "https://science.nasa.gov/earth/earth-observatory/salar-de-arizaro-83914/"
+    }
+  },
+  "bardenas": {
+    "sediments": {
+      "status": "yes",
+      "note": "UNESCO описує м'які осадові породи та глини, які формують ландшафти badlands.",
+      "source_url": "https://www.unesco.org/en/mab/bardenas-reales"
+    },
+    "erosion": {
+      "status": "yes",
+      "note": "UNESCO підтверджує виразні ерозійні форми; вони утворюються за інших умов, ніж на сучасному Марсі.",
+      "source_url": "https://www.unesco.org/en/mab/bardenas-reales"
+    },
+    "rugged": {
+      "status": "yes",
+      "note": "Яри та розчленовані ерозійні форми дають підстави вивчати складне прокладання маршрутів.",
+      "source_url": "https://www.unesco.org/en/mab/bardenas-reales"
+    }
+  },
+  "svalbard": {
+    "rugged": {
+      "status": "yes",
+      "note": "ESA описує скелясті виходи та випробування марсоходів на складному рельєфі.",
+      "source_url": "https://www.esa.int/Enabling_Support/Preparing_for_the_Future/Space_for_Earth/Arctic/Mars_in_the_Arctic"
+    }
+  },
+  "haughton": {
+    "rugged": {
+      "status": "yes",
+      "note": "NASA задокументувала геологічний і робототехнічний польовий аналог у кратері Хотон.",
+      "source_url": "https://www.nasa.gov/mission/haughton-mars-project-hmp-canadian-arctic/"
+    }
+  }
+}
